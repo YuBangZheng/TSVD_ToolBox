@@ -1,6 +1,13 @@
-# Transform-Based T-SVD Toolbox (Matlab)
+# Transformed T-SVD Toolbox (Matlab)
 
 Yu-Bang Zheng, Xi-Le Zhao, Qibin Zhao, Junjun Pan, Michael K. Ng, Heng-Chao Li, Ting-Zhu Huang
+
+
+<p align="center">
+    <br>
+    <img src="transtsvd.png" width="100%"/>
+    <br>
+</p>
 
 ## 1. Introduction
 
@@ -8,7 +15,7 @@ The transformed tensor singular values decomposition (t-SVD) captures the low-ra
 
 ## 2. Example
 
-Simply run the “Demo.m” to test all the transformed tensor nuclear norm methods.
+Simply run the “Demo.m” to test all the transformed t-SVD methods. The test data is available at http://trace.eas.asu.edu/yuv/.
 
 ## 3. Citation
 
@@ -29,3 +36,4 @@ Image Processing, vol. 29, pp. 7233–7244, 2020.
 
 [7] B.-Z. Li, X.-L. Zhao, T.-Y. Ji, X.-J. Zhang, and T.-Z. Huang, “Nonlinear transform induced tensor nuclear norm for tensor completion,” Journal of Scientific
 Computing, vol. 92, 2022.
+
