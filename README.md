@@ -5,7 +5,7 @@ Yu-Bang Zheng, Xi-Le Zhao, Qibin Zhao, Junjun Pan, Michael K. Ng, Heng-Chao Li, 
 
 <p align="center">
     <br>
-    <img src="transtsvd.png" width="100%"/>
+    <img src="transtsvd.png" width="60%"/>
     <br>
 </p>
 
